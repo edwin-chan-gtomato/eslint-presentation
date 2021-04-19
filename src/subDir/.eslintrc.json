@@ -1,0 +1,7 @@
+//this is subDir config
+{
+    "extends":["eslint:recommended"],
+    "rules":{
+        "prefer-template": "error"
+    }
+}
